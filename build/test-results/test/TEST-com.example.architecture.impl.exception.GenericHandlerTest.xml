@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.architecture.impl.exception.GenericHandlerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-11-14T16:27:24" hostname="rodrigo-X555UB" time="0.092">
+  <properties/>
+  <testcase name="handleException_ReturnHttpStatus_INTERNAL_SERVER_ERROR" classname="com.example.architecture.impl.exception.GenericHandlerTest" time="0.078"/>
+  <testcase name="handleApiException_ReturnHttpStatus_NOT_FOUND" classname="com.example.architecture.impl.exception.GenericHandlerTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
